@@ -16,3 +16,11 @@ setInterval(function(){
 })()
 
 ```
+
+Antes da execução do script 
+![image](https://user-images.githubusercontent.com/32443720/110270580-e6e40780-7fa4-11eb-8b76-a2c0999074b0.png)
+
+
+Depois
+![image](https://user-images.githubusercontent.com/32443720/110270612-f8c5aa80-7fa4-11eb-994d-5f964b2b20dc.png)
+
