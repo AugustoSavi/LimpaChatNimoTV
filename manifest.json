@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Limpa chat nimoTv",
+    "author": "Augusto Savi"
+    ,
+    "browser_action": {
+   	 "default_title": "Ganhe Seguidores e Likes"
+    },
+    "content_scripts": [{
+        "matches":[
+            "https://www.nimo.tv/*"
+        ],
+        "js": [
+            "/src/background_script.js"
+        ]
+    }],
+    "permissions":[
+        "activeTab"
+    ]
+}
